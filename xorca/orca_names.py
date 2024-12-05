@@ -30,7 +30,7 @@ orca_variables = {
     "sosaline": {"dims": ["t", "y_c", "x_c"]},
     "soshfldo": {"dims": ["t", "y_c", "x_c"]},
     "sossheig": {"dims": ["t", "y_c", "x_c"]},
-    "sosstsst": {"dims": ["t", "y_c", "x_c"]},
+    "tos": {"dims": ["t", "y_c", "x_c"]},
     "sowafldp": {"dims": ["t", "y_c", "x_c"]},
     "sowaflup": {"dims": ["t", "y_c", "x_c"]},
     "sowindsp": {"dims": ["t", "y_c", "x_c"]},
